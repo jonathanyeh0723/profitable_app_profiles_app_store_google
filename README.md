@@ -5,4 +5,8 @@ Our aim in this project is to find mobile app profiles that are profitable for t
 
 At our company, we only build apps that are free to download and install, and our main source of revenue consists of in-app ads. This means that our revenue for any given app is mostly influenced by the number of users that use our app. Our goal for this project is to analyze data to help our developers understand what kinds of apps are likely to attract more users.
 
+- Google Play Store Apps
+
+Web scraped data of 10k Play Store apps for analysing the Android market.
+
 ![android_pic](./resources/android_1.png)
