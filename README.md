@@ -9,6 +9,18 @@ We'll be mainly focusing with apps that are free to download and install, and ou
 
 Web scraped data of 10k Play Store apps for analysing the Android market.
 
+```
+def explore_data(dataset, start, end, rows_and_columns = False):
+    dataset_slice = dataset[start:end]
+    for row in dataset_slice:
+        print(row)
+        print("\n") # adds a new (empty) line after each row
+        
+    if rows_and_columns:
+        print("Number of rows:", len(dataset))
+        print("Number of columns:", len(dataset[0]))
+```
+
 ![android_pic](./resources/android_1.png)
 
 ## Conclusions
