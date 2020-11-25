@@ -9,7 +9,7 @@ We'll be mainly focusing with apps that are free to download and install, and ou
 
 - [App Store](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) containing data about approximately 7,000 iOS apps from the App Store; the data was collected in July 2017.
 
-Web scraped data of 10k Play Store apps for analysing the Android market.
+To make it easier for exploratory data analysis, a function is created with name explore_data() that you can repeatedly use to check data in a readable way.
 
 ```
 def explore_data(dataset, start, end, rows_and_columns = False):
@@ -22,6 +22,12 @@ def explore_data(dataset, start, end, rows_and_columns = False):
         print("Number of rows:", len(dataset))
         print("Number of columns:", len(dataset[0]))
 ```
+
+The explore_data() function:
+
+- Takes in four parameters: dataset, which is expected to be a list of lists.
+- start and end, which are both expected to be integers and represent the starting and the ending indices of a slice from the data set.
+- rows_and_columns, which is expected to be a Boolean and has False as a default argument.
 
 ![android_pic](./resources/android_1.png)
 
