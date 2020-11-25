@@ -23,11 +23,10 @@ def explore_data(dataset, start, end, rows_and_columns = False):
         print("Number of columns:", len(dataset[0]))
 ```
 
-The explore_data() function:
-
-- Takes in four parameters: dataset, which is expected to be a list of lists.
+The explore_data() function takes in four parameters: 
+- dataset, which is expected to be a list of lists.
 - start and end, which are both expected to be integers and represent the starting and the ending indices of a slice from the data set.
-- rows_and_columns, which is expected to be a Boolean and has False as a default argument.
+- rows_and_columns, which is expected to be a Boolean and has False as a default argument. It helps to print the number of rows and columns if rows_and_columns is True.
 
 ![android_pic](./resources/android_1.png)
 
