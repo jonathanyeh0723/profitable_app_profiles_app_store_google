@@ -1,9 +1,9 @@
 # profitable_app_profiles_app_store_google
-To find mobile app profiles that are profitable for the **App Store** and **Google Play** markets.
+xxx
 
 ## Summary
 
-Our aim is to find mobile app profiles that are profitable for the App Store and Google Play markets. The job is to enable our team of developers to make data-driven decisions with respect to the kind of apps they build.
+The aim is to find mobile app profiles that are profitable for the **App Store** and **Google Play** markets. The job is to enable our team of developers to make data-driven decisions with respect to the kind of apps they build.
 
 We'll be mainly focusing with apps that are free to download and install, and our main source of revenue consists of in-app ads. This means that our revenue for any given app is mostly influenced by the number of users that use our app. Our goal for this project is to analyze data to help our developers understand what kinds of apps are likely to attract more users.
 
