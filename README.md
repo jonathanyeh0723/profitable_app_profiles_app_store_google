@@ -1,5 +1,5 @@
 # profitable_app_profiles_app_store_google
-xxx
+To help users understand what type of apps are likely to attract more users on Google Play and the App Store.
 
 ## Summary
 
