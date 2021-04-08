@@ -7,6 +7,8 @@ The aim is to find mobile app profiles that are profitable for the **App Store**
 
 We'll be mainly focusing with apps that are free to download and install, and our main source of revenue consists of in-app ads. This means that our revenue for any given app is mostly influenced by the number of users that use our app. Our goal for this project is to analyze data to help our developers understand what kinds of apps are likely to attract more users.
 
+## Flow Chart
+
 **The data**
 - [App Store](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) containing data about approximately 7,000 iOS apps from the App Store; the data was collected in July 2017.
 
